@@ -1,4 +1,4 @@
-# Shell AI Hackathon 2023
+# Distributed Biomass Forecasting & Supply Chain Optimization 
 
 **Biomass Forecasting and Supply Chain Optimization for the Shell.ai Hackathon 2023**
 
